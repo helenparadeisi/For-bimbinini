@@ -32,13 +32,12 @@ window.onload = function() {
     let phraseIndex = 0;
     let yesSize = 1.2;
     const phrases = [
-        "No", 
-        "Are you sure tho?", 
-        "Pretty please?", 
-        "One more chance, pookie?", 
-        "Don't break my heart", 
-        "What about a maybe?", 
-        "please don't do this to me I am a little fragile bimbinini :("
+        "No💔", 
+        "Are you sure tho?🤧", 
+        "Pretty please?🥺", 
+        "One more chance, pookie?🤭", 
+        "Don't break my heart😔", 
+        "please don't do this to me I am a little fragile bimbinini😢"
     ];
 
     if(noBtn) {
